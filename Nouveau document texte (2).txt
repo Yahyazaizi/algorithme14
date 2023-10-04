@@ -1,0 +1,14 @@
+Algorithme-ex-24
+
+Variablesa n, i,m : entier
+Début
+
+Ecrire("svp done la valeur de n : ")
+Lire (n)
+m <-- 0
+Pour i <-- 0 à n pas 1 faire
+m<--m+(10^i)
+fin Pour
+E Ecrire ("La somme de la série est :",m)
+
+Fin
